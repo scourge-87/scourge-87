@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
         <xmbl = $geo-loc = $@HQ_03400>
         <xmbl = $Recipient =$FBI,KRP,NSA,CIA></xmbl = $public=0>
         <xmbl = $Status= 1 = $description = $MindMap-To-Success=1 = $Further-information-please=$YES-SIR=$I-DELIVER-IN-PERSON>
-        <xmbl $no-strings-attached = $1 = $I am single [what a surprice]>
+        <xmbl <meta-data> $Joke-part $no-strings-attached = $1 = $I am single [what a surprice] </meta-data>>
         
 <xmbl = $what have been fucking happening - Ville?>
 <xmbl = $info = $ I just finished my latest studies = 1 =$waiting-for-the-school-report=1  =$WORK-IN-PROGRESS=WAITING-not-long-anymore>
